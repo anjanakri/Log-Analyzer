@@ -57,6 +57,7 @@ Someone has to go through all that and figure out what went wrong
 - worked on the CLI part of the project  
 - used `sys` and `argparse` to handle inputs  
 - added basic `exception handling` to avoid crashes
+- Also, realised I suck at git commands when using VS Code(struggled for around 20 mins straight to figure out ye venv file .gitignore me gya ya nhi)
 ---
 ### 📅 Day 
 
