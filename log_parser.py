@@ -1,11 +1,15 @@
 import re
+import sys
 
 #reading the file
-def read_log():
-    with open("sample.log", "r") as f:
-        d=f.readlines()
-        return d
-
+def read_log(filepath):
+    try:
+        with open(filepath, "r") as f:
+            d=f.readlines()
+            return d
+    except FileNotFoundError:
+        print(f"Error: File '{filepath}' Not Found!")
+        sys.exit()
 #parser function
 def parse_data(d):
     pd_list=[]

@@ -70,6 +70,9 @@ report(total, ip_counts, url_counts, status_counts)
 
 
 
+# if (len(sys.argv)<2):
+#     print("OOPS GIVE LOG FILE NAME")
+#     sys.exit()
 
 
 
