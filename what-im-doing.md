@@ -52,6 +52,12 @@ Someone has to go through all that and figure out what went wrong
 - Gave  this project a permanent home in my GitHub🏡
 
 ---
+### 📅 Day 3
+
+- worked on the CLI part of the project  
+- used `sys` and `argparse` to handle inputs  
+- added basic `exception handling` to avoid crashes
+---
 ### 📅 Day 
 
 -   
