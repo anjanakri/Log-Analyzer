@@ -59,13 +59,18 @@ Someone has to go through all that and figure out what went wrong
 - added basic `exception handling` to avoid crashes
 - Also, realised I suck at git commands when using VS Code(struggled for around 20 mins straight to figure out ye venv file .gitignore me gya ya nhi)
 ---
+### 📅 Day 4
+
+- Kept it light today, but made an important shift.(sick as hell)
+- Started working on the UI layer using Tkinter.
+
+---
 ### 📅 Day 
 
 -   
 - 
 
 ---
-
 ## 👀 if you're reading this
 
 welcome :)  
